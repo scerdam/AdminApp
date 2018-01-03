@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NeuroNetApp</string>
+    <string name="title_activity_maps" textStyle="bold">NeuroNetApp</string>
+
+</resources>
